@@ -38,10 +38,7 @@ Chatty is a real-time chat application that allows users to communicate with eac
 <p float="left">
   <img src="./frontend/public/chat-app2.png" width="400" /> <img src="./frontend/public/chat-app3.png" width="400" >
 </p>
-| 
 
-
-=======
 
 
 
