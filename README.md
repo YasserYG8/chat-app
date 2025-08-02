@@ -4,7 +4,6 @@ Chatty is a real-time chat application that allows users to communicate with eac
 
 ![Chatty Preview](./frontend/public/chat-app1.png)
 =======
-![Chatty Preview](./preview.png)
 
 
 ## 🛠️ Tech Stack
