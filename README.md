@@ -3,6 +3,9 @@
 Chatty is a real-time chat application that allows users to communicate with each other in a smooth and modern UI. Built with React, Express, and Socket.IO, the app supports authentication, online/offline status, and responsive design.
 
 ![Chatty Preview](./frontend/public/chat-app1.png)
+=======
+![Chatty Preview](./preview.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +38,11 @@ Chatty is a real-time chat application that allows users to communicate with eac
 
 | Login Page | Chat Window |
 |------------|-------------|
+
 | ![Login](./frontend/public/chat-app2.png) | ![Chat](./frontend/public/chat-app3.png) |
+=======
+| ![Login](./screenshots/login.png) | ![Chat](./screenshots/chat.png) |
+
 
 ## 📦 Installation
 
@@ -44,3 +51,7 @@ Chatty is a real-time chat application that allows users to communicate with eac
 ```bash
 git clone https://github.com/yourusername/chatty.git
 cd chatty
+
+=======
+
+
