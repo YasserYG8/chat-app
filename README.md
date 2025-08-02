@@ -49,12 +49,12 @@ Chatty is a real-time chat application that allows users to communicate with eac
 
 1. **Clone the repository:**
 
+## 🎥 Project Demo
+
+👉 [ Click here to watch the video explanation](https://screenrec.com/share/QEgbY1J4ZM)
 ```bash
 git clone https://github.com/yourusername/chatty.git
 cd chatty
 
-## 🎥 Project Demo
-
-👉 [ Click here to watch the video explanation](https://screenrec.com/share/QEgbY1J4ZM)
 =======
 
