@@ -38,23 +38,19 @@ Chatty is a real-time chat application that allows users to communicate with eac
 <p float="left">
   <img src="./frontend/public/chat-app2.png" width="400" /> <img src="./frontend/public/chat-app3.png" width="400" >
 </p>
-| 
-
-
-=======
 
 
 
-## 📦 Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/chatty.git
-cd chatty
 
 ## 🎥 Project Demo
 
 👉 [ Click here to watch the video explanation](https://screenrec.com/share/QEgbY1J4ZM)
+
+## 📦 Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/yourusername/chatty.git
+cd chatty
 =======
 
